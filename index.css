@@ -5,7 +5,7 @@ body {
     background-color: rgb(219, 213, 213);
 }
 
-img {
+.head {
     border-radius: 105px;
     width: 210px;
 }
